@@ -16,3 +16,18 @@
 body {
     background-color: var(--backgroundColor);
 }
+
+main {
+    border: 1px solid red;
+    display: flex;
+    justify-content: center;
+    height: auto;
+}
+
+.card {
+    border: 1px solid;
+}
+
+.cardText {
+    border: 1px solid;
+}
