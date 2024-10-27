@@ -7,3 +7,7 @@
 
 ### Design 
 - Figma: [Facebook New Design](https://www.figma.com/design/9WuqcTRuAwcqpO3AxNS5iX/moda's-work?node-id=95-18&node-type=section&t=fOuKe0oO0ZExN49H-0)
+
+### Creators 
+- [MarkRyuo](https://github.com/MarkRyuo) 
+
