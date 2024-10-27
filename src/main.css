@@ -19,15 +19,18 @@ body {
 
 main {
     border: 1px solid red;
+    height: 100vh;
     display: flex;
     justify-content: center;
-    height: auto;
+    align-content: center;
 }
 
 .card {
     border: 1px solid;
+    height: 50vh;
 }
 
 .cardText {
     border: 1px solid;
+    height: 50vh;
 }
