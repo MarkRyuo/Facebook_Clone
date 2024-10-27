@@ -1,5 +1,7 @@
 
-:
+:root {
+    --dropShadowColor: rgb(207, 203, 203, 25%)
+}
 
 .card {
     border: 1px solid;
