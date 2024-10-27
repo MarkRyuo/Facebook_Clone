@@ -12,3 +12,7 @@
     --buttonColor: rgb(207, 67, 7, 100%) ;
     --textColor: rgb(48, 47, 47, 100%) ;
 }
+
+body {
+    background-color: var(--backgroundColor);
+}
