@@ -6,3 +6,7 @@
 *, ::after, ::before {
     box-sizing: border-box;
 }
+
+:root {
+    --backgroundColor: rgb(251, 249, 249, 100%)
+}
