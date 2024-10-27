@@ -1,0 +1,13 @@
+.cardText {
+    border: 1px solid;
+    display: block;
+    align-content: center;
+    padding: 10px;
+}
+
+.inputs {
+    border: 1px solid green;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
