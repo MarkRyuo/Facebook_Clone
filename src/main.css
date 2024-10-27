@@ -23,6 +23,7 @@ main {
     display: flex;
     justify-content: center;
     align-items: center;
+    gap: 20px;
 }
 
 .card {
@@ -34,6 +35,7 @@ main {
     border: 1px solid;
     display: block;
     align-content: center;
+    padding: 10px;
 }
 
 .inputs {
