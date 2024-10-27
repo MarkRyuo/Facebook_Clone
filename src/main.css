@@ -40,5 +40,12 @@ main {
     border: 1px solid green;
     display: flex;
     flex-direction: column;
+    padding: 20px;
 }
 
+form {
+    border: 1px solid ;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
