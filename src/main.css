@@ -25,8 +25,3 @@ main {
     align-items: center;
     gap: 20px;
 }
-
-.card {
-    border: 1px solid;
-    height: 50vh;
-}
