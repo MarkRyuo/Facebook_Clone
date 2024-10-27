@@ -39,3 +39,7 @@ form {
     box-shadow: 2px 2px 4px var(--dropShadowColor) ;
     border-radius: 15px;
 }
+
+input {
+    height: 45px;
+}
